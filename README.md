@@ -1,8 +1,8 @@
+![Nitehawk_Hexa](/Media/product_img_web1.jpg "Nitehawk Hexa")
+
 # Nitehawk-Hexa
 
-Nitehawk Hexa is a 6+1 port USB hub adapter purpose-built for USB-based toolboards. It integrates the capabilities of six Nitehawk USB adapters, a USB 2.0 hub, and a 24V power splitter into a single, compact PCB. Nitehawk Hexa is the ideal solution for multi-toolhead 3D printers such as IDEX or toolchanger systems, offering a clean and reliable way to manage power and communication across multiple toolboards.
-
-<img title="" src="./Media/Nitehawk Hexa.jpg" alt="Nitehawk-Hexa-1.jpg" width="394" data-align="inline">
+Nitehawk Hexa is a 6+1 port USB hub adapter purpose-built for USB-based toolboards. It integrates the capabilities of six Nitehawk USB adapters, a USB 2.0 hub, and a 24V power splitter into a single, compact PCB. Nitehawk Hexa is the ideal solution for multi-toolhead 3D printers such as IDEX or toolchanger systems, offering a clean and reliable way to manage power and communication across multiple toolboards.  
 
 ## Features:
 
