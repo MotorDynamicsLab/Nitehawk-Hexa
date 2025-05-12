@@ -14,4 +14,4 @@ Nitehawk Hexa is a 6+1 port USB hub adapter purpose-built for USB-based toolboar
 
 ## Documentation
 
-For detailed documentation check out the [LDO docs site]([Nitehawk Hexa | LDO Documentation](https://docs.ldomotors.com/en/Toolboard/Nitehawk-Hexa))
+For detailed documentation check out the [LDO docs site](https://docs.ldomotors.com/en/Toolboard/Nitehawk-Hexa)
